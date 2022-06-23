@@ -20,20 +20,32 @@ The `deploy.sh`, and `environment.yml` files were derived from <https://github.c
 If you are still confused with the markdown format about reasonable reference and In addition, this workflow only runs on issues with the label `reference`.
 Please See [#7](https://github.com/agitter/manubot-awesome-list/issues/7) for an example:) 
 
-## Manubot
-**Open collaborative writing with Manubot**   
-Daniel S. Himmelstein, Vincent Rubinetti, David R. Slochower, Dongbo Hu, Venkat S. Malladi, Casey S. Greene, Anthony Gitter  
-*Manubot*, May 2020, <https://greenelab.github.io/meta-review/>
+## Molecular_Generation
+**Geometry-Based Molecular Generation With Deep Constrained Variational Autoencoder**   
+Chunyan Li, Junfeng Yao, Wei Wei, Zhangming Niu, Xiangxiang Zeng, Jin Li, Jianmin Wang  
+*IEEE Transactions on Neural Networks and Learning Systems*, 2022, <https://doi.org/gpjb8f>   
+DOI: [10.1109/tnnls.2022.3147790](https://doi.org/10.1109/tnnls.2022.3147790) · PMID: [35171779](https://www.ncbi.nlm.nih.gov/pubmed/35171779)
 
-**Opportunities and obstacles for deep learning in biology and medicine**   
-Travers Ching, Daniel S. Himmelstein, Brett K. Beaulieu-Jones, Alexandr A. Kalinin, Brian T. Do, Gregory P. Way, Enrico Ferrero, Paul-Michael Agapow, Michael Zietz, Michael M. Hoffman, … Casey S. Greene  
-*Journal of The Royal Society Interface*, April 2018, <https://doi.org/gddkhn>   
-DOI: [10.1098/rsif.2017.0387](https://doi.org/10.1098/rsif.2017.0387) · PMID: [29618526](https://www.ncbi.nlm.nih.gov/pubmed/29618526) · PMCID: [PMC5938574](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5938574)
+**DeePKS+ABACUS as a Bridge between Expensive Quantum Mechanical Models and Machine Learning Potentials**   
+Wenfei Li, Qi Ou, Yixiao Chen, Yu Cao, Renxi Liu, Chunyi Zhang, Daye Zheng, Chun Cai, Xifan Wu, Han Wang, … Linfeng Zhang  
+*arXiv*, June 2022, <https://arxiv.org/abs/2206.10093>
 
-**GitHub - manubot/manubot: Python utilities for Manubot: Manuscripts, open and automated**   
-GitHub  
-<https://github.com/manubot/manubot>
+**The Pre-main Sequence: Challenges and Prospects for Asteroseismology**   
+Konstanze Zwintz, Thomas Steindl  
+*arXiv*, June 2022, <https://arxiv.org/abs/2206.09171>   
+DOI: [10.3389/fspas.2022.914738](https://doi.org/10.3389/fspas.2022.914738)
 
+**LIMO: Latent Inceptionism for Targeted Molecule Generation**   
+Peter Eckmann, Kunyang Sun, Bo Zhao, Mudong Feng, Michael K. Gilson, Rose Yu  
+*arXiv*, June 2022, <https://arxiv.org/abs/2206.09010>
+
+**Attention-wise masked graph contrastive learning for predicting molecular property**   
+Hui Liu, Yibiao Huang, Xuejun Liu, Lei Deng  
+*arXiv*, June 2022, <https://arxiv.org/abs/2206.08262>
+
+**Exploring Chemical Space with Score-based Out-of-distribution Generation**   
+Seul Lee, Jaehyeong Jo, Sung Ju Hwang  
+*arXiv*, June 2022, <https://arxiv.org/abs/2206.07632>
 
 ## Protein-engineering
 **Machine-learning-guided directed evolution for protein engineering**   
