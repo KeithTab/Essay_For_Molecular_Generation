@@ -16,7 +16,7 @@ This is only a proof of concept that is not robust against errors in the scripts
 The `deploy.sh`, and `environment.yml` files were derived from <https://github.com/manubot/rootstock> (CC0 1.0 license).
 
 If you are still confused with the markdown format about reasonable reference and In addition, this workflow only runs on issues with the label `reference`.
-Please See [#7](https://github.com/agitter/manubot-awesome-list/issues/7) for an example.) 
+Please See [#7](https://github.com/agitter/manubot-awesome-list/issues/7) for an example:) 
 
 ## Manubot
 **Open collaborative writing with Manubot**   
