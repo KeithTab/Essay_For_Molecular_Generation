@@ -36,6 +36,24 @@ GitHub
 
 
 ## Protein-engineering
+**Machine-learning-guided directed evolution for protein engineering**   
+Kevin K. Yang, Zachary Wu, Frances H. Arnold  
+*Nature Methods*, July 2019, <https://doi.org/gf43h4>   
+DOI: [10.1038/s41592-019-0496-6](https://doi.org/10.1038/s41592-019-0496-6) · PMID: [31308553](https://www.ncbi.nlm.nih.gov/pubmed/31308553)
+
+**Batched Stochastic Bayesian Optimization via Combinatorial Constraints Design**   
+Kevin K. Yang, Yuxin Chen, Alycia Lee, Yisong Yue  
+*arXiv*, April 2019, <https://arxiv.org/abs/1904.08102>
+
+**Unified rational protein engineering with sequence-only deep representation learning**   
+Ethan C. Alley, Grigory Khimulya, Surojit Biswas, Mohammed AlQuraishi, George M. Church  
+*Cold Spring Harbor Laboratory*, March 2019, <https://doi.org/gf48g2>   
+DOI: [10.1101/589333](https://doi.org/10.1101/589333)
+
+**Navigating the protein fitness landscape with Gaussian processes**   
+Philip A. Romero, Andreas Krause, Frances H. Arnold  
+*Proceedings of the National Academy of Sciences*, December 2012, <https://doi.org/f4k8bz>   
+DOI: [10.1073/pnas.1215251110](https://doi.org/10.1073/pnas.1215251110) · PMID: [23277561](https://www.ncbi.nlm.nih.gov/pubmed/23277561) · PMCID: [PMC3549130](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3549130)
 
 
 ## Single-cell-pseudotime
@@ -52,5 +70,3 @@ GitHub
 Atul Deshpande, Li-Fang Chu, Ron Stewart, Anthony Gitter  
 *Cold Spring Harbor Laboratory*, January 2019, <https://doi.org/gft4bb>   
 DOI: [10.1101/534834](https://doi.org/10.1101/534834)
-
-
