@@ -38,6 +38,41 @@ pip install panflute==1.12.5
 ```
 
 ## Molecular_Generation
+**GitHub - admislf/MINN-DTI: Effective drug-target interaction prediction with mutual interaction neural network**   
+GitHub  
+<https://github.com/admislf/MINN-DTI>
+
+**Deep Evolutionary Learning for Molecular Design**   
+Karl Grantham, Muhetaer Mukaidaisi, Hsu Kiang Ooi, Mohammad Sajjad Ghaemi, Alain Tchagang, Yifeng Li  
+*IEEE Computational Intelligence Magazine*, May 2022, <https://doi.org/gqdbrc>   
+DOI: [10.1109/mci.2022.3155308](https://doi.org/10.1109/mci.2022.3155308)
+
+**3D Infomax improves GNNs for Molecular Property Prediction**   
+Hannes Stärk, Dominique Beaini, Gabriele Corso, Prudencio Tossou, Christian Dallago, Stephan Günnemann, Pietro Liò  
+*arXiv*, June 2022, <https://arxiv.org/abs/2110.04126>
+
+**Pre-training Molecular Graph Representation with 3D Geometry**   
+Shengchao Liu, Hanchen Wang, Weiyang Liu, Joan Lasenby, Hongyu Guo, Jian Tang  
+*arXiv*, May 2022, <https://arxiv.org/abs/2110.07728>
+
+**EquiBind: Geometric Deep Learning for Drug Binding Structure Prediction**   
+Hannes Stärk, Octavian-Eugen Ganea, Lagnajit Pattanaik, Regina Barzilay, Tommi Jaakkola  
+*arXiv*, June 2022, <https://arxiv.org/abs/2202.05146>
+
+**Spherical Message Passing for 3D Graph Networks**   
+Yi Liu, Limei Wang, Meng Liu, Xuan Zhang, Bora Oztekin, Shuiwang Ji  
+*arXiv*, May 2022, <https://arxiv.org/abs/2102.05013>
+
+**A Deep Generative Model for Molecule Optimization via One Fragment Modification**   
+Ziqi Chen, Martin Renqiang Min, Srinivasan Parthasarathy, Xia Ning  
+*arXiv*, January 2022, <https://arxiv.org/abs/2012.04231>   
+DOI: [10.1038/s42256-021-00410-2](https://doi.org/10.1038/s42256-021-00410-2)
+
+**GF-VAE**   
+Changsheng Ma, Xiangliang Zhang  
+*Proceedings of the 30th ACM International Conference on Information & Knowledge Management*, October 2021, <https://doi.org/gp2883>   
+DOI: [10.1145/3459637.3482260](https://doi.org/10.1145/3459637.3482260)
+
 **Geometry-Based Molecular Generation With Deep Constrained Variational Autoencoder**   
 Chunyan Li, Junfeng Yao, Wei Wei, Zhangming Niu, Xiangxiang Zeng, Jin Li, Jianmin Wang  
 *IEEE Transactions on Neural Networks and Learning Systems*, 2022, <https://doi.org/gpjb8f>   
