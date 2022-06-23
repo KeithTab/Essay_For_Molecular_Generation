@@ -3,6 +3,8 @@
 ![](https://img.shields.io/badge/List-DrugDiscovery-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/paper-collection-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+## Menu
+
 - [Essay list about Molecular Generation or Drug Discovery](#essay-list-about-molecular-generation-or-drug-discovery)
   - [Repository Introduction](#repository-introduction)
   - [Environment Setup (_Ubuntu-22.04_)](#environment-setup-ubuntu-2204)
