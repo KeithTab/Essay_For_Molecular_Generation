@@ -21,7 +21,7 @@ The `deploy.sh`, and `environment.yml` files were derived from <https://github.c
 If you are still confused with the markdown format about reasonable reference and In addition, this workflow only runs on issues with the label `reference`.
 Please See [#7](https://github.com/agitter/manubot-awesome-list/issues/7) for an example:) 
 
-## Environment Setup 
+## Environment Setup (_Ubuntu-22.04_)
 ```ruby
 sudo apt install pandoc-citeproc pandoc build-essential
 pip install --upgrade git+https://github.com/manubot/manubot@$COMMIT 
