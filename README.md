@@ -1,5 +1,7 @@
 # Essay list about Molecular Generation or Drug Discovery 
-[![Build Status](https://travis-ci.com/agitter/manubot-awesome-list.svg?branch=master)](https://travis-ci.com/agitter/manubot-awesome-list)
+![](https://img.shields.io/badge/Essay-DLforMolecular-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/List-DrugDiscovery-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/paper-collection-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 Inspired by YanZhe Zhang's [__papers_for_protein_design_using_DL__](https://github.com/Peldom/papers_for_protein_design_using_DL), I have a tendency to organize __drug discovery papers by deep learning__ published in recent years especially on __molecular generation__, and this repo in the future will always be dynamic.We will make this list by [Manubot](http://manubot.org), If you know some literature in this regard, I also very welcome you to put forward the __doi/url/arxiv/PMID__ and so on of the literature collected in this issue in the issue, On the other way, you can also __contribute__ by create or edit the file in the content directory, as follows is for example: 
 ```ruby
