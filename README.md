@@ -13,11 +13,11 @@ Edit `README-BASE.md` to update this text.
 Update the reference lists in the `content` directory to add new sections or references.
 This is only a proof of concept that is not robust against errors in the scripts or merge conflicts.
 
-The `.travis.yml`, `deploy.sh`, and `environment.yml` files were derived from <https://github.com/manubot/rootstock> (CC0 1.0 license).
+The `deploy.sh`, and `environment.yml` files were derived from <https://github.com/manubot/rootstock> (CC0 1.0 license).
 
-This repository also contains a GitHub Actions workflow that uses Manubot to automatically extract reference information from the identifier in an issue title.
-The workflow only runs on issues with the label `reference`.
-See [#7](https://github.com/agitter/manubot-awesome-list/issues/7) for an example.
+If you are still confused with the markdown format about reasonable reference and In addition, this workflow only runs on issues with the label `reference`.
+Please See [#7](https://github.com/agitter/manubot-awesome-list/issues/7) for an example.) 
+
 ## Manubot
 **Open collaborative writing with Manubot**   
 Daniel S. Himmelstein, Vincent Rubinetti, David R. Slochower, Dongbo Hu, Venkat S. Malladi, Casey S. Greene, Anthony Gitter  
