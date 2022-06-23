@@ -21,6 +21,13 @@ The `deploy.sh`, and `environment.yml` files were derived from <https://github.c
 If you are still confused with the markdown format about reasonable reference and In addition, this workflow only runs on issues with the label `reference`.
 Please See [#7](https://github.com/agitter/manubot-awesome-list/issues/7) for an example:) 
 
+## Environment Setup 
+```ruby
+sudo apt install pandoc-citeproc pandoc build-essential
+pip install --upgrade git+https://github.com/manubot/manubot@$COMMIT 
+pip install panflute==1.12.5
+```
+
 ## Molecular_Generation
 **Geometry-Based Molecular Generation With Deep Constrained Variational Autoencoder**   
 Chunyan Li, Junfeng Yao, Wei Wei, Zhangming Niu, Xiangxiang Zeng, Jin Li, Jianmin Wang  
