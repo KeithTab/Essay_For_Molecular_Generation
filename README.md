@@ -71,7 +71,7 @@ DOI: [10.1038/s42256-021-00410-2](https://doi.org/10.1038/s42256-021-00410-2)
 **GF-VAE**   
 Changsheng Ma, Xiangliang Zhang  
 *Proceedings of the 30th ACM International Conference on Information & Knowledge Management*, October 2021, <https://doi.org/gp2883>   
-DOI: [10.1145/3459637.3482260](https://doi.org/10.1145/3459637.3482260)
+DOI: [10.1145/3459637.3482260](https://doi.org/10.1145/3459637.3482260) || [code](https://github.com/chshm/GF-VAE)
 
 **Geometry-Based Molecular Generation With Deep Constrained Variational Autoencoder**   
 Chunyan Li, Junfeng Yao, Wei Wei, Zhangming Niu, Xiangxiang Zeng, Jin Li, Jianmin Wang  
