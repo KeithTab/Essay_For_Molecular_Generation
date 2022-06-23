@@ -1,9 +1,13 @@
-# Create awesome lists with Manubot
+# Essay list about Molecular Generation or Drug Discovery 
 [![Build Status](https://travis-ci.com/agitter/manubot-awesome-list.svg?branch=master)](https://travis-ci.com/agitter/manubot-awesome-list)
 
-A proof of concept for using [Manubot](http://manubot.org) to automate awesome lists.
-An awesome list is a themed list of resources in the `README.md` file in the `master` branch of a GitHub repository.
-
+Inspired by YanZhe Zhang's [papers_for_protein_design_using_DL](https://github.com/Peldom/papers_for_protein_design_using_DL), I have a tendency to organize drug discovery papers by deep learning published in recent years especially on molecular generation, and this repo in the future will always be dynamic.We will make this list by [Manubot](http://manubot.org), If you know some literature in this regard, I also very welcome you to put forward the doi/url/arxiv/PMID/ and so on of the literature collected in this issue in the issue, On the other way, you can also contribute by create or edit the file in the content directory, as follows is for example: 
+```ruby
+## Manubot example documention and introduction link
+url:https://greenelab.github.io/meta-review/ 
+doi:10.1098/rsif.2017.0387 
+url:https://github.com/manubot/manubot/ 
+``` 
 In this repository, `README.md` is created via continuous integration and should not be edited directly.
 Edit `README-BASE.md` to update this text.
 Update the reference lists in the `content` directory to add new sections or references.
