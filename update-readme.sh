@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 pattern=content/*
 base=README-BASE.md
 
