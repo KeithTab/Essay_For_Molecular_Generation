@@ -89,7 +89,7 @@ DOI: [10.3389/fspas.2022.914738](https://doi.org/10.3389/fspas.2022.914738)
 
 **LIMO: Latent Inceptionism for Targeted Molecule Generation**   
 Peter Eckmann, Kunyang Sun, Bo Zhao, Mudong Feng, Michael K. Gilson, Rose Yu  
-*arXiv*, June 2022, <https://arxiv.org/abs/2206.09010>
+*arXiv*, June 2022, <https://arxiv.org/abs/2206.09010> || [code](https://github.com/Rose-STL-Lab/LIMO)
 
 **Attention-wise masked graph contrastive learning for predicting molecular property**   
 Hui Liu, Yibiao Huang, Xuejun Liu, Lei Deng  
