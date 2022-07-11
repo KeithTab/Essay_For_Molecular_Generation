@@ -99,6 +99,13 @@ Hui Liu, Yibiao Huang, Xuejun Liu, Lei Deng
 Seul Lee, Jaehyeong Jo, Sung Ju Hwang  
 *arXiv*, June 2022, <https://arxiv.org/abs/2206.07632>
 
+**A 3D Molecule Generative Model for Structure-Based Drug Design**   
+Shitong Luo, Jiaqi Guan, Jianzhu Ma, Jian Peng  
+*arXiv*, March 2022, <https://arxiv.org/abs/2203.10446>
+
+**Molecular Optimization by Capturing Chemist’s Intuition Using Deep Neural Networks** November 2020, <https://doi.org/gqgzp7>   
+DOI: [10.21203/rs.3.rs-101137/v1](https://doi.org/10.21203/rs.3.rs-101137/v1)
+
 ## Protein-engineering
 **Machine-learning-guided directed evolution for protein engineering**   
 Kevin K. Yang, Zachary Wu, Frances H. Arnold  
@@ -118,13 +125,6 @@ DOI: [10.1101/589333](https://doi.org/10.1101/589333)
 Philip A. Romero, Andreas Krause, Frances H. Arnold  
 *Proceedings of the National Academy of Sciences*, December 2012, <https://doi.org/f4k8bz>   
 DOI: [10.1073/pnas.1215251110](https://doi.org/10.1073/pnas.1215251110) · PMID: [23277561](https://www.ncbi.nlm.nih.gov/pubmed/23277561) · PMCID: [PMC3549130](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3549130)
-
-**A 3D Molecule Generative Model for Structure-Based Drug Design**   
-Shitong Luo, Jiaqi Guan, Jianzhu Ma, Jian Peng  
-*arXiv*, March 2022, <https://arxiv.org/abs/2203.10446> 
-
-**Molecular Optimization by Capturing Chemist’s Intuition Using Deep Neural Networks** November 2020, <https://doi.org/gqgzp7>   
-DOI: [10.21203/rs.3.rs-101137/v1](https://doi.org/10.21203/rs.3.rs-101137/v1)
 
 ## Single-cell-pseudotime
 **A comparison of single-cell trajectory inference methods**   
