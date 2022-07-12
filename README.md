@@ -144,7 +144,7 @@ Shitong Luo, Jiaqi Guan, Jianzhu Ma, Jian Peng
 **Molecular Optimization by Capturing Chemist’s Intuition Using Deep Neural Networks** November 2020, <https://doi.org/gqgzp7>   
 DOI: [10.21203/rs.3.rs-101137/v1](https://doi.org/10.21203/rs.3.rs-101137/v1)
 
-## 4.Protein Designe
+## 4.Protein Design(Overview)
 **Machine-learning-guided directed evolution for protein engineering**   
 Kevin K. Yang, Zachary Wu, Frances H. Arnold  
 *Nature Methods*, July 2019, <https://doi.org/gf43h4>   
@@ -164,7 +164,7 @@ Philip A. Romero, Andreas Krause, Frances H. Arnold
 *Proceedings of the National Academy of Sciences*, December 2012, <https://doi.org/f4k8bz>   
 DOI: [10.1073/pnas.1215251110](https://doi.org/10.1073/pnas.1215251110) · PMID: [23277561](https://www.ncbi.nlm.nih.gov/pubmed/23277561) · PMCID: [PMC3549130](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3549130)
 
-## 5.Single-cell-pseudotime
+## 5.Single-cell-pseudotime(Overview)
 **A comparison of single-cell trajectory inference methods**   
 Wouter Saelens, Robrecht Cannoodt, Helena Todorov, Yvan Saeys  
 *Nature Biotechnology*, April 2019, <https://doi.org/gfxsgd>   
