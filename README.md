@@ -12,8 +12,38 @@
   - [Protein-engineering](#protein-engineering)
   - [Single-cell-pseudotime](#single-cell-pseudotime)
 
-## Repository Introduction 
-Inspired by YanZhe Zhang's [__papers_for_protein_design_using_DL__](https://github.com/Peldom/papers_for_protein_design_using_DL), I have a tendency to organize __drug discovery papers by deep learning__ published in recent years especially on __molecular generation__, and this repo in the future will always be dynamic.We will make this list by [Manubot](http://manubot.org), If you know some literature in this regard, I also very welcome you to put forward the __doi/url/arxiv/PMID__ and so on of the literature collected in this issue in the issue, On the other way, you can also __contribute__ by create or edit the file in the content directory, as follows is for example: 
+## 0.Basic datasets for Drug Discovery
+
+### 0.1 Molecular Based Structure
+
+#### 0.1.1 Structure Database
+
+1. [ChemBl Datasets](https://www.ebi.ac.uk/chembl/)
+2. [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
+3. [PDBbind](http://www.pdbbind.org.cn/download.php)
+4. [Cortellis Drug Discovery Intelligence](https://www.cortellis.com/drugdiscovery/)
+3. [__ZINC15 database__](https://zinc15.docking.org) 
+
+**ZINC 15 – Ligand Discovery for Everyone**   
+Teague Sterling, John J. Irwin  
+*Journal of Chemical Information and Modeling*, November 2015, <https://doi.org/gf4zg2>   
+DOI: [10.1021/acs.jcim.5b00559](https://doi.org/10.1021/acs.jcim.5b00559) · PMID: [26479676](https://www.ncbi.nlm.nih.gov/pubmed/26479676) · PMCID: [PMC4658288](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4658288)
+
+### 0.2 Protein Based Steucture
+
+#### 0.2.1 Protein Structure Datasets
+
+**SidechainNet: An All-Atom Protein Structure Dataset for Machine Learning**
+Jonathan E. King, David Ryan Koes  
+[arxiv](https://arxiv.org/abs/2010.08162) || [github::sidechainnet](https://github.com/jonathanking/sidechainnet)  
+
+[TDC](https://tdcommons.ai/overview/) maintains a resource list that currently contains 22 tasks (and its datasets) related to small molecules and macromolecules, including PPI, DDI and so on. [MoleculeNet](https://github.com/GLambard/Molecules_Dataset_Collection) published a small molecule related benchmark four years ago.
+
+> In terms of datasets and benchmarks, protein design is far less mature than drug discovery ([paperwithcode drug discovery benchmarks](https://paperswithcode.com/task/drug-discovery)). (Maybe should add the evaluation of protein design for deep learning method (especially deep generative model))  
+> Difficulties and opportunities always coexist. Happy to see the work of [Christian Dallago, Jody Mou, Kadina E. Johnston, Bruce J. Wittmann, Nicholas Bhattacharya, Samuel Goldman, Ali Madani, Kevin K. Yang](https://www.biorxiv.org/content/10.1101/2021.11.09.467890v1) and [Zhangyang Gao, Cheng Tan, Stan Z. Li](https://arxiv.org/abs/2202.01079). How grateful.
+
+## 1.Repository Introduction 
+> Inspired by YanZhe Zhang's [__papers_for_protein_design_using_DL__](https://github.com/Peldom/papers_for_protein_design_using_DL), I have a tendency to organize __drug discovery papers by deep learning__ published in recent years especially on __molecular generation__, and this repo in the future will always be dynamic.We will make this list by [Manubot](http://manubot.org), If you know some literature in this regard, I also very welcome you to put forward the __doi/url/arxiv/PMID__ and so on of the literature collected in this issue in the issue, On the other way, you can also __contribute__ by create or edit the file in the content directory, as follows is for example: 
 ```ruby
 ## Manubot example documention and introduction link
 url:https://greenelab.github.io/meta-review/ 
@@ -30,14 +60,14 @@ The `deploy.sh`, and `environment.yml` files were derived from <https://github.c
 If you are still confused with the markdown format about reasonable reference and In addition, this workflow only runs on issues with the label `reference`.
 Please See [#7](https://github.com/agitter/manubot-awesome-list/issues/7) for an example:) 
 
-## Environment Setup (_Ubuntu-22.04_)
+## 2.Environment Setup (_Ubuntu-22.04_)
 ```ruby
 sudo apt install pandoc-citeproc pandoc build-essential
 pip install --upgrade git+https://github.com/manubot/manubot@$COMMIT 
 pip install panflute==1.12.5
 ```
 
-## Molecular_Generation
+## 3.Molecular_Generation
 **GitHub - admislf/MINN-DTI: Effective drug-target interaction prediction with mutual interaction neural network**   
 GitHub  
 <https://github.com/admislf/MINN-DTI>
@@ -78,6 +108,8 @@ Chunyan Li, Junfeng Yao, Wei Wei, Zhangming Niu, Xiangxiang Zeng, Jin Li, Jianmi
 *IEEE Transactions on Neural Networks and Learning Systems*, 2022, <https://doi.org/gpjb8f>   
 DOI: [10.1109/tnnls.2022.3147790](https://doi.org/10.1109/tnnls.2022.3147790) · PMID: [35171779](https://www.ncbi.nlm.nih.gov/pubmed/35171779) || [code](https://github.com/anny0316/GEOM-CVAE) 
 
+> Molecular visual representation based on 3D spatial structure: Referring to the extensive application of CNN in computer vision, we proposed a representation method of encoding molecular spatial structure into pictures, that is, converting molecular spatial coordinates into RGB attributes of pictures and using __CNN__ for feature extraction. Then enter __VAE__ model.
+
 **DeePKS+ABACUS as a Bridge between Expensive Quantum Mechanical Models and Machine Learning Potentials**   
 Wenfei Li, Qi Ou, Yixiao Chen, Yu Cao, Renxi Liu, Chunyi Zhang, Daye Zheng, Chun Cai, Xifan Wu, Han Wang, … Linfeng Zhang  
 *arXiv*, June 2022, <https://arxiv.org/abs/2206.10093>
@@ -106,7 +138,7 @@ Shitong Luo, Jiaqi Guan, Jianzhu Ma, Jian Peng
 **Molecular Optimization by Capturing Chemist’s Intuition Using Deep Neural Networks** November 2020, <https://doi.org/gqgzp7>   
 DOI: [10.21203/rs.3.rs-101137/v1](https://doi.org/10.21203/rs.3.rs-101137/v1)
 
-## Protein-engineering
+## 4.Protein-engineering
 **Machine-learning-guided directed evolution for protein engineering**   
 Kevin K. Yang, Zachary Wu, Frances H. Arnold  
 *Nature Methods*, July 2019, <https://doi.org/gf43h4>   
@@ -126,7 +158,7 @@ Philip A. Romero, Andreas Krause, Frances H. Arnold
 *Proceedings of the National Academy of Sciences*, December 2012, <https://doi.org/f4k8bz>   
 DOI: [10.1073/pnas.1215251110](https://doi.org/10.1073/pnas.1215251110) · PMID: [23277561](https://www.ncbi.nlm.nih.gov/pubmed/23277561) · PMCID: [PMC3549130](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3549130)
 
-## Single-cell-pseudotime
+## 5.Single-cell-pseudotime
 **A comparison of single-cell trajectory inference methods**   
 Wouter Saelens, Robrecht Cannoodt, Helena Todorov, Yvan Saeys  
 *Nature Biotechnology*, April 2019, <https://doi.org/gfxsgd>   
