@@ -35,7 +35,7 @@ Teague Sterling, John J. Irwin
 *Journal of Chemical Information and Modeling*, November 2015, <https://doi.org/gf4zg2>   
 DOI: [10.1021/acs.jcim.5b00559](https://doi.org/10.1021/acs.jcim.5b00559) · PMID: [26479676](https://www.ncbi.nlm.nih.gov/pubmed/26479676) · PMCID: [PMC4658288](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4658288)
 
-### 0.2 Protein Based Steucture
+### 0.2 Protein Based Structure
 
 #### 0.2.1 Protein Structure Datasets
 
