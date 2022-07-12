@@ -53,15 +53,15 @@ Hannes Stärk, Dominique Beaini, Gabriele Corso, Prudencio Tossou, Christian Dal
 
 **Pre-training Molecular Graph Representation with 3D Geometry**   
 Shengchao Liu, Hanchen Wang, Weiyang Liu, Joan Lasenby, Hongyu Guo, Jian Tang  
-*arXiv*, May 2022, <https://arxiv.org/abs/2110.07728>
+*arXiv*, May 2022, <https://arxiv.org/abs/2110.07728> || [pdf](https://arxiv.org/pdf/2110.07728.pdf)
 
 **EquiBind: Geometric Deep Learning for Drug Binding Structure Prediction**   
 Hannes Stärk, Octavian-Eugen Ganea, Lagnajit Pattanaik, Regina Barzilay, Tommi Jaakkola  
-*arXiv*, June 2022, <https://arxiv.org/abs/2202.05146>
+*arXiv*, June 2022, <https://arxiv.org/abs/2202.05146> || [pdf](https://arxiv.org/pdf/2202.05146.pdf)
 
 **Spherical Message Passing for 3D Graph Networks**   
 Yi Liu, Limei Wang, Meng Liu, Xuan Zhang, Bora Oztekin, Shuiwang Ji  
-*arXiv*, May 2022, <https://arxiv.org/abs/2102.05013>
+*arXiv*, May 2022, <https://arxiv.org/abs/2102.05013> || [pdf](https://arxiv.org/pdf/2102.05013.pdf)
 
 **A Deep Generative Model for Molecule Optimization via One Fragment Modification**   
 Ziqi Chen, Martin Renqiang Min, Srinivasan Parthasarathy, Xia Ning  
@@ -89,7 +89,7 @@ DOI: [10.3389/fspas.2022.914738](https://doi.org/10.3389/fspas.2022.914738)
 
 **LIMO: Latent Inceptionism for Targeted Molecule Generation**   
 Peter Eckmann, Kunyang Sun, Bo Zhao, Mudong Feng, Michael K. Gilson, Rose Yu  
-*arXiv*, June 2022, <https://arxiv.org/abs/2206.09010> || [code](https://github.com/Rose-STL-Lab/LIMO)
+*arXiv*, June 2022, <https://arxiv.org/abs/2206.09010> || [code](https://github.com/Rose-STL-Lab/LIMO) || [pdf](https://arxiv.org/pdf/2206.09010.pdf)
 
 **Attention-wise masked graph contrastive learning for predicting molecular property**   
 Hui Liu, Yibiao Huang, Xuejun Liu, Lei Deng  
