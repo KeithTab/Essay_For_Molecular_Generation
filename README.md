@@ -67,7 +67,7 @@ pip install --upgrade git+https://github.com/manubot/manubot@$COMMIT
 pip install panflute==1.12.5
 ```
 
-## 3.Molecular_Generation
+## 3.Molecular_Generation(Overview)
 **GitHub - admislf/MINN-DTI: Effective drug-target interaction prediction with mutual interaction neural network**   
 GitHub  
 <https://github.com/admislf/MINN-DTI>
