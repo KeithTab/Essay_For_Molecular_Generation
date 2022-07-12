@@ -6,11 +6,17 @@
 ## Menu
 
 - [Essay list about Molecular Generation or Drug Discovery](#essay-list-about-molecular-generation-or-drug-discovery)
-  - [Repository Introduction](#repository-introduction)
-  - [Environment Setup (_Ubuntu-22.04_)](#environment-setup-ubuntu-2204)
-  - [Molecular_Generation](#molecular_generation)
-  - [Protein-engineering](#protein-engineering)
-  - [Single-cell-pseudotime](#single-cell-pseudotime)
+  - [Menu](#menu)
+  - [0.Basic datasets for Drug Discovery](#0basic-datasets-for-drug-discovery)
+    - [0.1 Molecular Based Structure](#01-molecular-based-structure)
+      - [0.1.1 Structure Database](#011-structure-database)
+    - [0.2 Protein Based Steucture](#02-protein-based-steucture)
+      - [0.2.1 Protein Structure Datasets](#021-protein-structure-datasets)
+  - [1.Repository Introduction](#1repository-introduction)
+  - [2.Environment Setup (_Ubuntu-22.04_)](#2environment-setup-ubuntu-2204)
+  - [3.Molecular_Generation(Overview)](#3molecular_generationoverview)
+  - [4.Protein-engineering](#4protein-engineering)
+  - [5.Single-cell-pseudotime](#5single-cell-pseudotime)
 
 ## 0.Basic datasets for Drug Discovery
 
