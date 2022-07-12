@@ -144,7 +144,7 @@ Shitong Luo, Jiaqi Guan, Jianzhu Ma, Jian Peng
 **Molecular Optimization by Capturing Chemist’s Intuition Using Deep Neural Networks** November 2020, <https://doi.org/gqgzp7>   
 DOI: [10.21203/rs.3.rs-101137/v1](https://doi.org/10.21203/rs.3.rs-101137/v1)
 
-## 4.Protein-engineering
+## 4.Protein Designe
 **Machine-learning-guided directed evolution for protein engineering**   
 Kevin K. Yang, Zachary Wu, Frances H. Arnold  
 *Nature Methods*, July 2019, <https://doi.org/gf43h4>   
