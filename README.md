@@ -19,6 +19,10 @@
   - [4.Protein Design(Overview)](#4protein-designoverview)
   - [5.Single-cell-pseudotime(Overview)](#5single-cell-pseudotimeoverview)
 
+## Survey
+----------
+* [Elsevier 2022] **Deep learning approaches for de novo drug design: An overview**  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0959440X21001433?via%3Dihub)
+
 ## 0.Basic datasets for Drug Discovery
 
 ### 0.1 Molecular Based Structure
