@@ -7,6 +7,7 @@
 
 - [Essay list about Molecular Generation or Drug Discovery](#essay-list-about-molecular-generation-or-drug-discovery)
   - [Menu](#menu)
+  - [Survey](#survey)
   - [0.Basic datasets for Drug Discovery](#0basic-datasets-for-drug-discovery)
     - [0.1 Molecular Based Structure](#01-molecular-based-structure)
       - [0.1.1 Structure Database](#011-structure-database)
@@ -20,7 +21,6 @@
   - [5.Single-cell-pseudotime(Overview)](#5single-cell-pseudotimeoverview)
 
 ## Survey
-----------
 * [Elsevier 2022] **Deep learning approaches for de novo drug design: An overview**  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0959440X21001433?via%3Dihub)
 
 ## 0.Basic datasets for Drug Discovery
