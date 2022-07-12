@@ -101,7 +101,7 @@ Seul Lee, Jaehyeong Jo, Sung Ju Hwang
 
 **A 3D Molecule Generative Model for Structure-Based Drug Design**   
 Shitong Luo, Jiaqi Guan, Jianzhu Ma, Jian Peng  
-*arXiv*, March 2022, <https://arxiv.org/abs/2203.10446>
+*arXiv*, March 2022, <https://arxiv.org/abs/2203.10446> || [pdf](https://arxiv.org/pdf/2203.10446.pdf)
 
 **Molecular Optimization by Capturing Chemist’s Intuition Using Deep Neural Networks** November 2020, <https://doi.org/gqgzp7>   
 DOI: [10.21203/rs.3.rs-101137/v1](https://doi.org/10.21203/rs.3.rs-101137/v1)
