@@ -5,6 +5,7 @@ Welcome to join my groups!
 ## Format of paper items
 
 Just need to submit __doi,PMID,arxiv and so on__ , you can follow the instruction to generate the format of an essay!
+> you can generate the citation by run the __update-readme.sh__ scripts if you have all the environment set right which mentioned before:)
 
 ## How-to
 
