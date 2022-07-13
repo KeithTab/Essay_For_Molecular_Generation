@@ -65,6 +65,11 @@ Jonathan E. King, David Ryan Koes
 Daniil Polykovskiy, Alexander Zhebrak, Benjamin Sanchez-Lengeling, Sergey Golovanov, Oktai Tatanov, Stanislav Belyaev, Rauf Kurbanov, Aleksey Artamonov, Vladimir Aladinskiy, Mark Veselov, … Alex Zhavoronkov  
 *arXiv*, October 2020, <https://arxiv.org/abs/1811.12823> || [pdf](https://arxiv.org/pdf/1811.12823.pdf) || [code](https://github.com/molecularsets/moses)
 
+**GuacaMol: Benchmarking Models for de Novo Molecular Design**   
+Nathan Brown, Marco Fiscato, Marwin H. S. Segler, Alain C. Vaucher  
+*Journal of Chemical Information and Modeling*, March 2019, <https://doi.org/ggpn3x>   
+DOI: [10.1021/acs.jcim.8b00839](https://doi.org/10.1021/acs.jcim.8b00839) · PMID: [30887799](https://www.ncbi.nlm.nih.gov/pubmed/30887799) || [pdf](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839) || [code](https://github.com/BenevolentAI/guacamol)
+
 ## 1.Repository Introduction 
 > Inspired by YanZhe Zhang's [__papers_for_protein_design_using_DL__](https://github.com/Peldom/papers_for_protein_design_using_DL), I have a tendency to organize __drug discovery papers by deep learning__ published in recent years especially on __molecular generation__, and this repo in the future will always be dynamic.We will make this list by [Manubot](http://manubot.org), If you know some literature in this regard, I also very welcome you to put forward the __doi/url/arxiv/PMID__ and so on of the literature collected in this issue in the issue, On the other way, you can also __contribute__ by create or edit the file in the content directory, as follows is for example: 
 ```ruby
