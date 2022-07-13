@@ -78,6 +78,22 @@ Jonathan E. King, David Ryan Koes
 
 ### 0.3 Molecular Render Tools
 
+__0.3.1__ [Pymol](https://pymol.org/2/) 
+> If you are a green hand for pymol, I will recommand you visiting this website [__PymolGallery__](https://pymolwiki.org/index.php/Gallery), and it will be a very fantasitic instruction for you!
+
+__0.3.2__ [ChiemraX](https://www.cgl.ucsf.edu/chimerax/)
+
+__0.3.3__ [VMD](https://www.ks.uiuc.edu/Research/vmd/)
+
+__0.3.4__ [Blender](https://www.blender.org/)
+
+__0.3.5__ [Protein Imager](https://3dproteinimaging.com/protein-imager/) 
+
+**The Protein Imager: a full-featured online molecular viewer interface with server-side HQ-rendering capabilities**   
+Gianluca Tomasello, Ilaria Armenia, Gianluca Molla  
+*Bioinformatics*, January 2020, <https://doi.org/gqhbf2>   
+DOI: [10.1093/bioinformatics/btaa009](https://doi.org/10.1093/bioinformatics/btaa009) · PMID: [31930403](https://www.ncbi.nlm.nih.gov/pubmed/31930403)
+
 ### 0.4 Benchmark Datasets for evalution about molecular generation Models
 
 #### 0.4.1 Basic suite 
