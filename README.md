@@ -19,6 +19,10 @@
   - [1.Repository Introduction](#1repository-introduction)
   - [2.Environment Setup (_Ubuntu-22.04_)](#2environment-setup-ubuntu-2204)
   - [3.Molecular_Generation(Overview)](#3molecular_generationoverview)
+    - [3.1 VAE-based](#31-vae-based)
+    - [3.2 Structure-Based-Drug-Design](#32-structure-based-drug-design)
+    - [3.3 Transformer-Based](#33-transformer-based)
+    - [3.4 Flow-Based](#34-flow-based)
   - [4.Protein Design(Overview)](#4protein-designoverview)
   - [5.Single-cell-pseudotime(Overview)](#5single-cell-pseudotimeoverview)
 
@@ -35,7 +39,24 @@
 2. [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 3. [PDBbind](http://www.pdbbind.org.cn/download.php)
 4. [Cortellis Drug Discovery Intelligence](https://www.cortellis.com/drugdiscovery/)
-3. [__ZINC15 database__](https://zinc15.docking.org) 
+5. [__ZINC15 database__](https://zinc15.docking.org) 
+6. [__DrugBank__](https://go.drugbank.com/)
+7. [GDB-13](https://www.cbligand.org/gdb13/) 
+
+**Enumeration of 166 Billion Organic Small Molecules in the Chemical Universe Database GDB-17**   
+Lars Ruddigkeit, Ruud van Deursen, Lorenz C. Blum, Jean-Louis Reymond  
+*Journal of Chemical Information and Modeling*, November 2012, <https://doi.org/f4d9mt>   
+DOI: [10.1021/ci300415d](https://doi.org/10.1021/ci300415d) · PMID: [23088335](https://www.ncbi.nlm.nih.gov/pubmed/23088335)
+
+**The PDBbind Database:  Methodologies and Updates**   
+Renxiao Wang, Xueliang Fang, Yipin Lu, Chao-Yie Yang, Shaomeng Wang  
+*Journal of Medicinal Chemistry*, May 2005, <https://doi.org/djbvfc>   
+DOI: [10.1021/jm048957q](https://doi.org/10.1021/jm048957q) · PMID: [15943484](https://www.ncbi.nlm.nih.gov/pubmed/15943484)
+
+**970 Million Druglike Small Molecules for Virtual Screening in the Chemical Universe Database GDB-13**   
+Lorenz C. Blum, Jean-Louis Reymond  
+*Journal of the American Chemical Society*, June 2009, <https://doi.org/dwxj84>   
+DOI: [10.1021/ja902302h](https://doi.org/10.1021/ja902302h) · PMID: [19505099](https://www.ncbi.nlm.nih.gov/pubmed/19505099)
 
 **ZINC 15 – Ligand Discovery for Everyone**   
 Teague Sterling, John J. Irwin  
@@ -165,6 +186,59 @@ Shitong Luo, Jiaqi Guan, Jianzhu Ma, Jian Peng
 
 **Molecular Optimization by Capturing Chemist’s Intuition Using Deep Neural Networks** November 2020, <https://doi.org/gqgzp7>   
 DOI: [10.21203/rs.3.rs-101137/v1](https://doi.org/10.21203/rs.3.rs-101137/v1)
+
+### 3.1 VAE-based
+
+**Geometry-Based Molecular Generation With Deep Constrained Variational Autoencoder**   
+Chunyan Li, Junfeng Yao, Wei Wei, Zhangming Niu, Xiangxiang Zeng, Jin Li, Jianmin Wang  
+*IEEE Transactions on Neural Networks and Learning Systems*, 2022, <https://doi.org/gpjb8f>   
+DOI: [10.1109/tnnls.2022.3147790](https://doi.org/10.1109/tnnls.2022.3147790) · PMID: [35171779](https://www.ncbi.nlm.nih.gov/pubmed/35171779) || [code](https://github.com/anny0316/GEOM-CVAE) 
+
+**GF-VAE**   
+Changsheng Ma, Xiangliang Zhang  
+*Proceedings of the 30th ACM International Conference on Information & Knowledge Management*, October 2021, <https://doi.org/gp2883>   
+DOI: [10.1145/3459637.3482260](https://doi.org/10.1145/3459637.3482260) || [code](https://github.com/chshm/GF-VAE) 
+
+**LIMO: Latent Inceptionism for Targeted Molecule Generation**   
+Peter Eckmann, Kunyang Sun, Bo Zhao, Mudong Feng, Michael K. Gilson, Rose Yu  
+*arXiv*, June 2022, <https://arxiv.org/abs/2206.09010> || [code](https://github.com/Rose-STL-Lab/LIMO) || [pdf](https://arxiv.org/pdf/2206.09010.pdf) 
+
+**Junction Tree Variational Autoencoder for Molecular Graph Generation**   
+Wengong Jin, Regina Barzilay, Tommi Jaakkola  
+*arXiv*, April 2019, <https://arxiv.org/abs/1802.04364>
+
+**Grammar Variational Autoencoder**   
+Matt J. Kusner, Brooks Paige, José Miguel Hernández-Lobato  
+*arXiv*, March 2017, <https://arxiv.org/abs/1703.01925>
+
+**Syntax-Directed Variational Autoencoder for Structured Data**   
+Hanjun Dai, Yingtao Tian, Bo Dai, Steven Skiena, Le Song  
+*arXiv*, February 2018, <https://arxiv.org/abs/1802.08786>
+
+**GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders**   
+Martin Simonovsky, Nikos Komodakis  
+*arXiv*, February 2018, <https://arxiv.org/abs/1802.03480>
+
+### 3.2 Structure-Based-Drug-Design
+
+**A 3D Molecule Generative Model for Structure-Based Drug Design**   
+Shitong Luo, Jiaqi Guan, Jianzhu Ma, Jian Peng  
+*arXiv*, March 2022, <https://arxiv.org/abs/2203.10446> || [pdf](https://arxiv.org/pdf/2203.10446.pdf) || [code](https://github.com/pengxingang/Pocket2Mol)
+
+### 3.3 Transformer-Based
+
+**Molecular Optimization by Capturing Chemist’s Intuition Using Deep Neural Networks** November 2020, <https://doi.org/gqgzp7>   
+DOI: [10.21203/rs.3.rs-101137/v1](https://doi.org/10.21203/rs.3.rs-101137/v1) || [code](https://github.com/MolecularAI/deep-molecular-optimization)
+
+### 3.4 Flow-Based 
+
+**GraphNVP: An Invertible Flow Model for Generating Molecular Graphs**   
+Kaushalya Madhawa, Katushiko Ishiguro, Kosuke Nakago, Motoki Abe  
+*arXiv*, May 2019, <https://arxiv.org/abs/1905.11600>
+
+**Graph Residual Flow for Molecular Graph Generation**   
+Shion Honda, Hirotaka Akita, Katsuhiko Ishiguro, Toshiki Nakanishi, Kenta Oono  
+*arXiv*, October 2019, <https://arxiv.org/abs/1909.13521>
 
 ## 4.Protein Design(Overview)
 **Machine-learning-guided directed evolution for protein engineering**   
