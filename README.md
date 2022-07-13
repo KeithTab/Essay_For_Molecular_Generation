@@ -187,6 +187,30 @@ Shitong Luo, Jiaqi Guan, Jianzhu Ma, Jian Peng
 **Molecular Optimization by Capturing Chemist’s Intuition Using Deep Neural Networks** November 2020, <https://doi.org/gqgzp7>   
 DOI: [10.21203/rs.3.rs-101137/v1](https://doi.org/10.21203/rs.3.rs-101137/v1)
 
+**GraphNVP: An Invertible Flow Model for Generating Molecular Graphs**   
+Kaushalya Madhawa, Katushiko Ishiguro, Kosuke Nakago, Motoki Abe  
+*arXiv*, May 2019, <https://arxiv.org/abs/1905.11600>
+
+**Graph Residual Flow for Molecular Graph Generation**   
+Shion Honda, Hirotaka Akita, Katsuhiko Ishiguro, Toshiki Nakanishi, Kenta Oono  
+*arXiv*, October 2019, <https://arxiv.org/abs/1909.13521>
+
+**Junction Tree Variational Autoencoder for Molecular Graph Generation**   
+Wengong Jin, Regina Barzilay, Tommi Jaakkola  
+*arXiv*, April 2019, <https://arxiv.org/abs/1802.04364>
+
+**Grammar Variational Autoencoder**   
+Matt J. Kusner, Brooks Paige, José Miguel Hernández-Lobato  
+*arXiv*, March 2017, <https://arxiv.org/abs/1703.01925>
+
+**Syntax-Directed Variational Autoencoder for Structured Data**   
+Hanjun Dai, Yingtao Tian, Bo Dai, Steven Skiena, Le Song  
+*arXiv*, February 2018, <https://arxiv.org/abs/1802.08786>
+
+**GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders**   
+Martin Simonovsky, Nikos Komodakis  
+*arXiv*, February 2018, <https://arxiv.org/abs/1802.03480>
+
 ### 3.1 VAE-based
 
 **Geometry-Based Molecular Generation With Deep Constrained Variational Autoencoder**   
