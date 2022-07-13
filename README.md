@@ -280,7 +280,9 @@ Kaushalya Madhawa, Katushiko Ishiguro, Kosuke Nakago, Motoki Abe
 Shion Honda, Hirotaka Akita, Katsuhiko Ishiguro, Toshiki Nakanishi, Kenta Oono  
 *arXiv*, October 2019, <https://arxiv.org/abs/1909.13521>
 
-## 4.Protein Design(Overview)
+## 4.Protein Design(Overview) 
+> If you want to learn more about protein design paper, recommand you visit [__papers_for_protein_design_using_DL__](https://github.com/Peldom/papers_for_protein_design_using_DL) 
+
 **Machine-learning-guided directed evolution for protein engineering**   
 Kevin K. Yang, Zachary Wu, Frances H. Arnold  
 *Nature Methods*, July 2019, <https://doi.org/gf43h4>   
