@@ -55,6 +55,12 @@ Jonathan E. King, David Ryan Koes
 
 ### 0.3 Molecular Render Tools
 
+### 0.4 Benchmark Datasets for evalution about molecular generation Models
+
+**Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models**   
+Daniil Polykovskiy, Alexander Zhebrak, Benjamin Sanchez-Lengeling, Sergey Golovanov, Oktai Tatanov, Stanislav Belyaev, Rauf Kurbanov, Aleksey Artamonov, Vladimir Aladinskiy, Mark Veselov, … Alex Zhavoronkov  
+*arXiv*, October 2020, <https://arxiv.org/abs/1811.12823> || [pdf](https://arxiv.org/pdf/1811.12823.pdf) || [code](https://github.com/molecularsets/moses)
+
 ## 1.Repository Introduction 
 > Inspired by YanZhe Zhang's [__papers_for_protein_design_using_DL__](https://github.com/Peldom/papers_for_protein_design_using_DL), I have a tendency to organize __drug discovery papers by deep learning__ published in recent years especially on __molecular generation__, and this repo in the future will always be dynamic.We will make this list by [Manubot](http://manubot.org), If you know some literature in this regard, I also very welcome you to put forward the __doi/url/arxiv/PMID__ and so on of the literature collected in this issue in the issue, On the other way, you can also __contribute__ by create or edit the file in the content directory, as follows is for example: 
 ```ruby
