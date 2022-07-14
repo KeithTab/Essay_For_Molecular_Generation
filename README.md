@@ -142,6 +142,11 @@ Karl Grantham, Muhetaer Mukaidaisi, Hsu Kiang Ooi, Mohammad Sajjad Ghaemi, Alain
 *IEEE Computational Intelligence Magazine*, May 2022, <https://doi.org/gqdbrc>   
 DOI: [10.1109/mci.2022.3155308](https://doi.org/10.1109/mci.2022.3155308)
 
+**MGCVAE: Multi-Objective Inverse Design via Molecular Graph Conditional Variational Autoencoder**   
+Myeonghun Lee, Kyoungmin Min  
+*Journal of Chemical Information and Modeling*, June 2022, <https://doi.org/gqhf8q>   
+DOI: [10.1021/acs.jcim.2c00487](https://doi.org/10.1021/acs.jcim.2c00487) · PMID: [35666276](https://www.ncbi.nlm.nih.gov/pubmed/35666276)
+
 **3D Infomax improves GNNs for Molecular Property Prediction**   
 Hannes Stärk, Dominique Beaini, Gabriele Corso, Prudencio Tossou, Christian Dallago, Stephan Günnemann, Pietro Liò  
 *arXiv*, June 2022, <https://arxiv.org/abs/2110.04126>
@@ -233,6 +238,11 @@ Martin Simonovsky, Nikos Komodakis
 Chunyan Li, Junfeng Yao, Wei Wei, Zhangming Niu, Xiangxiang Zeng, Jin Li, Jianmin Wang  
 *IEEE Transactions on Neural Networks and Learning Systems*, 2022, <https://doi.org/gpjb8f>   
 DOI: [10.1109/tnnls.2022.3147790](https://doi.org/10.1109/tnnls.2022.3147790) · PMID: [35171779](https://www.ncbi.nlm.nih.gov/pubmed/35171779) || [code](https://github.com/anny0316/GEOM-CVAE) 
+
+**MGCVAE: Multi-Objective Inverse Design via Molecular Graph Conditional Variational Autoencoder**   
+Myeonghun Lee, Kyoungmin Min  
+*Journal of Chemical Information and Modeling*, June 2022, <https://doi.org/gqhf8q>   
+DOI: [10.1021/acs.jcim.2c00487](https://doi.org/10.1021/acs.jcim.2c00487) · PMID: [35666276](https://www.ncbi.nlm.nih.gov/pubmed/35666276) || [code](https://github.com/mhlee216/mgcvae) || [pdf](https://arxiv.org/pdf/2202.07476.pdf)
 
 **GF-VAE**   
 Changsheng Ma, Xiangliang Zhang  
