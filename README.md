@@ -259,6 +259,11 @@ Maxime Langevin, Herve Minoux, Maximilien Levesque, Marc Bianciotto
 *arXiv*, January 2021, <https://arxiv.org/abs/2009.07778>   
 DOI: [10.1021/acs.jcim.0c01015](https://doi.org/10.1021/acs.jcim.0c01015)
 
+**MolGPT: Molecular Generation Using a Transformer-Decoder Model**   
+Viraj Bagal, Rishal Aggarwal, P. K. Vinod, U. Deva Priyakumar  
+*Journal of Chemical Information and Modeling*, October 2021, <https://doi.org/gnw9m7>   
+DOI: [10.1021/acs.jcim.1c00600](https://doi.org/10.1021/acs.jcim.1c00600) · PMID: [34694798](https://www.ncbi.nlm.nih.gov/pubmed/34694798)
+
 ### 3.1 VAE-based
 
 **An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming**   
@@ -307,6 +312,11 @@ Shitong Luo, Jiaqi Guan, Jianzhu Ma, Jian Peng
 *arXiv*, March 2022, <https://arxiv.org/abs/2203.10446> || [pdf](https://arxiv.org/pdf/2203.10446.pdf) || [code](https://github.com/pengxingang/Pocket2Mol)
 
 ### 3.3 Transformer-Based
+
+**MolGPT: Molecular Generation Using a Transformer-Decoder Model**   
+Viraj Bagal, Rishal Aggarwal, P. K. Vinod, U. Deva Priyakumar  
+*Journal of Chemical Information and Modeling*, October 2021, <https://doi.org/gnw9m7>   
+DOI: [10.1021/acs.jcim.1c00600](https://doi.org/10.1021/acs.jcim.1c00600) · PMID: [34694798](https://www.ncbi.nlm.nih.gov/pubmed/34694798) || [code](https://github.com/devalab/molgpt)
 
 **Molecular Optimization by Capturing Chemist’s Intuition Using Deep Neural Networks** November 2020, <https://doi.org/gqgzp7>   
 DOI: [10.21203/rs.3.rs-101137/v1](https://doi.org/10.21203/rs.3.rs-101137/v1) || [code](https://github.com/MolecularAI/deep-molecular-optimization)
