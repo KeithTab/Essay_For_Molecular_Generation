@@ -23,6 +23,7 @@
     - [3.2 Structure-Based-Drug-Design](#32-structure-based-drug-design)
     - [3.3 Transformer-Based](#33-transformer-based)
     - [3.4 Flow-Based](#34-flow-based)
+    - [3.5 Geometry-based](#35-geometry-based)
   - [4.Protein Design(Overview)](#4protein-designoverview)
   - [5.Single-cell-pseudotime(Overview)](#5single-cell-pseudotimeoverview)
 
@@ -290,6 +291,23 @@ Kaushalya Madhawa, Katushiko Ishiguro, Kosuke Nakago, Motoki Abe
 Shion Honda, Hirotaka Akita, Katsuhiko Ishiguro, Toshiki Nakanishi, Kenta Oono  
 *arXiv*, October 2019, <https://arxiv.org/abs/1909.13521>
 
+### 3.5 Geometry-based 
+
+**Shape-Based Generative Modeling for de Novo Drug Design**   
+Miha Skalic, José Jiménez, Davide Sabbadin, Gianni De Fabritiis  
+*Journal of Chemical Information and Modeling*, February 2019, <https://doi.org/gfv7f3>   
+DOI: [10.1021/acs.jcim.8b00706](https://doi.org/10.1021/acs.jcim.8b00706) · PMID: [30762364](https://www.ncbi.nlm.nih.gov/pubmed/30762364) || [code](https://github.com/compsciencelab/ligdream)
+
+**Deep Generative Models for 3D Linker Design**   
+Fergus Imrie, Anthony R. Bradley, Mihaela van der Schaar, Charlotte M. Deane  
+*Journal of Chemical Information and Modeling*, March 2020, <https://doi.org/gnfhsq>   
+DOI: [10.1021/acs.jcim.9b01120](https://doi.org/10.1021/acs.jcim.9b01120) · PMID: [32195587](https://www.ncbi.nlm.nih.gov/pubmed/32195587) · PMCID: [PMC7189367](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7189367) || [code](https://github.com/oxpig/DeLinker)
+
+**Geometry-Based Molecular Generation With Deep Constrained Variational Autoencoder**   
+Chunyan Li, Junfeng Yao, Wei Wei, Zhangming Niu, Xiangxiang Zeng, Jin Li, Jianmin Wang  
+*IEEE Transactions on Neural Networks and Learning Systems*, 2022, <https://doi.org/gpjb8f>   
+DOI: [10.1109/tnnls.2022.3147790](https://doi.org/10.1109/tnnls.2022.3147790) · PMID: [35171779](https://www.ncbi.nlm.nih.gov/pubmed/35171779) || [code](https://github.com/anny0316/GEOM-CVAE) 
+
 ## 4.Protein Design(Overview) 
 > If you want to learn more about protein design paper, recommand you visit [__papers_for_protein_design_using_DL__](https://github.com/Peldom/papers_for_protein_design_using_DL) 
 
@@ -326,4 +344,3 @@ GitHub
 Atul Deshpande, Li-Fang Chu, Ron Stewart, Anthony Gitter  
 *Cold Spring Harbor Laboratory*, January 2019, <https://doi.org/gft4bb>   
 DOI: [10.1101/534834](https://doi.org/10.1101/534834)
-
