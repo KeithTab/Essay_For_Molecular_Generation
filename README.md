@@ -146,6 +146,18 @@ pip install panflute==1.12.5
 GitHub  
 <https://github.com/admislf/MINN-DTI>
 
+**An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming**   
+Minkai Xu, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bombarelli, Jian Tang  
+*arXiv*, June 2021, <https://arxiv.org/abs/2105.07246>
+
+**Learning Gradient Fields for Molecular Conformation Generation**   
+Chence Shi, Shitong Luo, Minkai Xu, Jian Tang  
+*arXiv*, June 2021, <https://arxiv.org/abs/2105.03902>
+
+**GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation**   
+Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang  
+*arXiv*, March 2022, <https://arxiv.org/abs/2203.02923>
+
 **Deep Evolutionary Learning for Molecular Design**   
 Karl Grantham, Muhetaer Mukaidaisi, Hsu Kiang Ooi, Mohammad Sajjad Ghaemi, Alain Tchagang, Yifeng Li  
 *IEEE Computational Intelligence Magazine*, May 2022, <https://doi.org/gqdbrc>   
@@ -243,6 +255,10 @@ Martin Simonovsky, Nikos Komodakis
 
 ### 3.1 VAE-based
 
+**An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming**   
+Minkai Xu, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bombarelli, Jian Tang  
+*arXiv*, June 2021, <https://arxiv.org/abs/2105.07246>
+
 **Geometry-Based Molecular Generation With Deep Constrained Variational Autoencoder**   
 Chunyan Li, Junfeng Yao, Wei Wei, Zhangming Niu, Xiangxiang Zeng, Jin Li, Jianmin Wang  
 *IEEE Transactions on Neural Networks and Learning Systems*, 2022, <https://doi.org/gpjb8f>   
@@ -315,6 +331,10 @@ DOI: [10.1021/acs.jcim.9b01120](https://doi.org/10.1021/acs.jcim.9b01120) · PMI
 Chunyan Li, Junfeng Yao, Wei Wei, Zhangming Niu, Xiangxiang Zeng, Jin Li, Jianmin Wang  
 *IEEE Transactions on Neural Networks and Learning Systems*, 2022, <https://doi.org/gpjb8f>   
 DOI: [10.1109/tnnls.2022.3147790](https://doi.org/10.1109/tnnls.2022.3147790) · PMID: [35171779](https://www.ncbi.nlm.nih.gov/pubmed/35171779) || [code](https://github.com/anny0316/GEOM-CVAE) 
+
+**GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation**   
+Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang  
+*arXiv*, March 2022, <https://arxiv.org/abs/2203.02923>
 
 ## 4.Protein Design(Overview) 
 > If you want to learn more about protein design paper, recommand you visit [__papers_for_protein_design_using_DL__](https://github.com/Peldom/papers_for_protein_design_using_DL) 
