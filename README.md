@@ -43,6 +43,7 @@
 5. [__ZINC15 database__](https://zinc15.docking.org) 
 6. [__DrugBank__](https://go.drugbank.com/)
 7. [GDB-13](https://www.cbligand.org/gdb13/) 
+8. [ANI-1](https://github.com/isayev/ANI1_dataset)
 
 **Enumeration of 166 Billion Organic Small Molecules in the Chemical Universe Database GDB-17**   
 Lars Ruddigkeit, Ruud van Deursen, Lorenz C. Blum, Jean-Louis Reymond  
@@ -62,7 +63,14 @@ DOI: [10.1021/ja902302h](https://doi.org/10.1021/ja902302h) · PMID: [19505099](
 **ZINC 15 – Ligand Discovery for Everyone**   
 Teague Sterling, John J. Irwin  
 *Journal of Chemical Information and Modeling*, November 2015, <https://doi.org/gf4zg2>   
-DOI: [10.1021/acs.jcim.5b00559](https://doi.org/10.1021/acs.jcim.5b00559) · PMID: [26479676](https://www.ncbi.nlm.nih.gov/pubmed/26479676) · PMCID: [PMC4658288](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4658288)
+DOI: [10.1021/acs.jcim.5b00559](https://doi.org/10.1021/acs.jcim.5b00559) · PMID: [26479676](https://www.ncbi.nlm.nih.gov/pubmed/26479676) · PMCID: [PMC4658288](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4658288) 
+
+**ANI-1: A data set of 20M off-equilibrium DFT calculations for organic molecules**   
+Justin S. Smith, Olexandr Isayev, Adrian E. Roitberg  
+*arXiv*, January 2018, <https://arxiv.org/abs/1708.04987>   
+DOI: [10.1038/sdata.2017.193](https://doi.org/10.1038/sdata.2017.193) || [code](https://github.com/isayev/ANI1_dataset)
+> The ANI-1 potential was shown to be chemically accurate for systems of 50 atoms and more, demonstrating extensibility and transferability to much larger molecules than those in the training set.”
+“This phenomenon, whereby an ML model is trained on small systems (which could be thought of as fragments of large systems), then demonstrated to be extensible to large systems has also been confirmed in other recent studies.
 
 ### 0.2 Protein Based Structure
 
