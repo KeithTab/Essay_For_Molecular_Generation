@@ -24,6 +24,7 @@
     - [3.3 Transformer-Based](#33-transformer-based)
     - [3.4 Flow-Based](#34-flow-based)
     - [3.5 Geometry-based](#35-geometry-based)
+    - [3.6 Scaffold-based](#36-scaffold-based)
   - [4.Protein Design(Overview)](#4protein-designoverview)
   - [5.Single-cell-pseudotime(Overview)](#5single-cell-pseudotimeoverview)
 
@@ -335,6 +336,13 @@ DOI: [10.1109/tnnls.2022.3147790](https://doi.org/10.1109/tnnls.2022.3147790) ·
 **GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation**   
 Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang  
 *arXiv*, March 2022, <https://arxiv.org/abs/2203.02923>
+
+### 3.6 Scaffold-based
+
+**Scaffold-constrained molecular generation**   
+Maxime Langevin, Herve Minoux, Maximilien Levesque, Marc Bianciotto  
+*arXiv*, January 2021, <https://arxiv.org/abs/2009.07778>   
+DOI: [10.1021/acs.jcim.0c01015](https://doi.org/10.1021/acs.jcim.0c01015)
 
 ## 4.Protein Design(Overview) 
 > If you want to learn more about protein design paper, recommand you visit [__papers_for_protein_design_using_DL__](https://github.com/Peldom/papers_for_protein_design_using_DL) 
