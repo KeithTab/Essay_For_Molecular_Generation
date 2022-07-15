@@ -254,6 +254,11 @@ Hanjun Dai, Yingtao Tian, Bo Dai, Steven Skiena, Le Song
 Martin Simonovsky, Nikos Komodakis  
 *arXiv*, February 2018, <https://arxiv.org/abs/1802.03480>
 
+**Scaffold-constrained molecular generation**   
+Maxime Langevin, Herve Minoux, Maximilien Levesque, Marc Bianciotto  
+*arXiv*, January 2021, <https://arxiv.org/abs/2009.07778>   
+DOI: [10.1021/acs.jcim.0c01015](https://doi.org/10.1021/acs.jcim.0c01015)
+
 ### 3.1 VAE-based
 
 **An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming**   
