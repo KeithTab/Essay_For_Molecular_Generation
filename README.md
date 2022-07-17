@@ -264,6 +264,10 @@ Viraj Bagal, Rishal Aggarwal, P. K. Vinod, U. Deva Priyakumar
 *Journal of Chemical Information and Modeling*, October 2021, <https://doi.org/gnw9m7>   
 DOI: [10.1021/acs.jcim.1c00600](https://doi.org/10.1021/acs.jcim.1c00600) · PMID: [34694798](https://www.ncbi.nlm.nih.gov/pubmed/34694798)
 
+**Hierarchical Generation of Molecular Graphs using Structural Motifs**   
+Wengong Jin, Regina Barzilay, Tommi Jaakkola  
+*arXiv*, April 2020, <https://arxiv.org/abs/2002.03230>
+
 ### 3.1 VAE-based
 
 **An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming**   
@@ -306,6 +310,10 @@ Martin Simonovsky, Nikos Komodakis
 *arXiv*, February 2018, <https://arxiv.org/abs/1802.03480>
 
 ### 3.2 Structure-Based-Drug-Design
+
+**Hierarchical Generation of Molecular Graphs using Structural Motifs**   
+Wengong Jin, Regina Barzilay, Tommi Jaakkola  
+*arXiv*, April 2020, <https://arxiv.org/abs/2002.03230>
 
 **A 3D Molecule Generative Model for Structure-Based Drug Design**   
 Shitong Luo, Jiaqi Guan, Jianzhu Ma, Jian Peng  
