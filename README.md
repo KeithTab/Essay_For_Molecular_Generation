@@ -311,6 +311,74 @@ Martin Simonovsky, Nikos Komodakis
 
 ### 3.2 Structure-Based-Drug-Design
 
+**MolSearch**   
+Mengying Sun, Jing Xing, Han Meng, Huijun Wang, Bin Chen, Jiayu Zhou  
+*Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, August 2022, [https://doi.org/10.1145/3534678.3542676
+](https://doi.org/10.1145/3534678.3542676
+)   
+DOI: [10.1145/3534678.3542676
+](https://doi.org/10.1145/3534678.3542676
+)
+
+**Structure-based drug design with geometric deep learning**   
+Clemens Isert, Kenneth Atz, Gisbert Schneider  
+*arXiv*, 2022, [https://doi.org/10.48550/arxiv.2210.11250
+](https://doi.org/10.48550/arxiv.2210.11250
+)   
+DOI: [10.48550/arxiv.2210.11250
+](https://doi.org/10.48550/arxiv.2210.11250
+)
+
+**DENVIS: Scalable and High-Throughput Virtual Screening Using Graph Neural Networks with Atomic and Surface Protein Pocket Features**   
+Agamemnon Krasoulis, Nick Antonopoulos, Vassilis Pitsikalis, Stavros Theodorakis  
+*Journal of Chemical Information and Modeling*, September 2022, [https://doi.org/10.1021/acs.jcim.2c01057
+](https://doi.org/10.1021/acs.jcim.2c01057
+)   
+DOI: [10.1021/acs.jcim.2c01057
+](https://doi.org/10.1021/acs.jcim.2c01057
+) · PMID: [36154119](http://www.ncbi.nlm.nih.gov/pubmed/36154119)
+
+**Equivariant Diffusion for Molecule Generation in 3D**   
+Emiel Hoogeboom, Victor Garcia Satorras, Clément Vignac, Max Welling  
+*arXiv*, 2022, [https://doi.org/10.48550/arxiv.2203.17003
+](https://doi.org/10.48550/arxiv.2203.17003
+)   
+DOI: [10.48550/arxiv.2203.17003
+](https://doi.org/10.48550/arxiv.2203.17003
+)
+
+**Unified 2D and 3D Pre-Training of Molecular Representations**   
+Jinhua Zhu, Yingce Xia, Lijun Wu, Shufang Xie, Tao Qin, Wengang Zhou, Houqiang Li, Tie-Yan Liu  
+*arXiv*, 2022, [https://doi.org/10.48550/arxiv.2207.08806
+](https://doi.org/10.48550/arxiv.2207.08806
+)   
+DOI: [10.48550/arxiv.2207.08806
+](https://doi.org/10.48550/arxiv.2207.08806
+)
+
+**Direct Molecular Conformation Generation**   
+Jinhua Zhu, Yingce Xia, Chang Liu, Lijun Wu, Shufang Xie, Tong Wang, Yusong Wang, Wengang Zhou, Tao Qin, Houqiang Li, Tie-Yan Liu  
+*arXiv*, 2022, [https://doi.org/10.48550/arxiv.2202.01356
+](https://doi.org/10.48550/arxiv.2202.01356
+)   
+DOI: [10.48550/arxiv.2202.01356
+](https://doi.org/10.48550/arxiv.2202.01356
+)
+
+**Molecular Substructure-Aware Network for Drug-Drug Interaction Prediction**   
+Xinyu Zhu, Yongliang Shen, Weiming Lu  
+*arXiv*, 2022, [https://doi.org/10.48550/arxiv.2208.11267
+](https://doi.org/10.48550/arxiv.2208.11267
+)   
+DOI: [10.48550/arxiv.2208.11267
+](https://doi.org/10.48550/arxiv.2208.11267
+)
+
+**Docking-based generative approaches in the search for new drug candidates**   
+Tomasz Danel, Jan Łęski, Sabina Podlewska, Igor T. Podolak  
+*Drug Discovery Today*, February 2023, <https://doi.org/grdhjh>   
+DOI: [10.1016/j.drudis.2022.103439](https://doi.org/10.1016/j.drudis.2022.103439) · PMID: [36372330](http://www.ncbi.nlm.nih.gov/pubmed/36372330)
+
 **Hierarchical Generation of Molecular Graphs using Structural Motifs**   
 Wengong Jin, Regina Barzilay, Tommi Jaakkola  
 *arXiv*, April 2020, <https://arxiv.org/abs/2002.03230>
